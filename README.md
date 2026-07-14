@@ -42,7 +42,7 @@ The four servo motors perform a sweep motion for 2 seconds. After that, all moto
 
 ## 🎥 Project Demo
 
-[Watch the Project Demo](servo-demo.mp4)
+[Watch the Project Demo](servo-demo.gif)
 
 ## 💻 Source Code
 
